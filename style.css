@@ -44,24 +44,31 @@ h1 {
 
 h2 {
     color: white;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-weight: 600;
 
 }
 
 h3 {
     color: white;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-weight: 700;
+
+}
+
+h4 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;   
+     font-weight: 700;
 
 }
 
 p {
     color: white;
-    font-family: 'Inter', sans-serif;
-}
+    font-family: 'Quicksand', sans-serif;}
 
 .text-link {
     color: #89f7fe;
 }
+
 
