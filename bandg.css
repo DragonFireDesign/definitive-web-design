@@ -1,0 +1,59 @@
+
+
+.footer,
+.navbar {
+  background-color: #f6ffee
+}
+
+.navbar .nav-link {
+    font-family: 'Work Sans', sans-serif;  
+        color: #6C757D;
+        font-size: 14px;    
+    }
+    
+    .navbar .nav-link.active {
+        color: #273d24;
+    }
+    
+    .navbar-nav .nav-link:hover {
+        color:#273d24;
+    
+    }
+.navbar-brand, h1, h2, h3, h4, h5 {
+
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.brands {
+    background-color: #284224;
+}
+
+.btn-colour-1 {
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+    background-color: #284224;
+    border-color: #284224
+  }
+  
+  .btn-colour-1:hover,
+  .btn-colour-1:active,
+  .btn-colour-1:focus,
+  .btn-colour-1.active {
+    /* let's darken #284224 a bit for hover effect */
+    background: #273d24;
+    color: #ffffff;
+    border-color: #273d24;
+  }
+
+  a {
+    font-family: 'Work Sans', sans-serif;  
+    color: #6C757D;
+    text-decoration: none !important;
+  }
+  a:hover {
+      color: #284224;
+  }

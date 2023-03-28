@@ -1,0 +1,51 @@
+body {
+  background-color: #f0eee9;
+
+  color: #344033;
+}
+
+.hire {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+a {
+color: #344033;
+text-decoration: none !important;
+}
+a:hover {
+color: #6C757D;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  color: #344033;
+}
+
+h2 {
+
+  font-family: 'Inter', sans-serif;
+  color: #344033;
+}
+
+h5 {
+font-family: 'Inter', sans-serif;
+  color:#f0eee9;
+
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.demo {
+background-color: #344033;
+}
+
+.card {
+margin: 1em;
+}
+

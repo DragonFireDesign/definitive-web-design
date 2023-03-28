@@ -1,0 +1,49 @@
+.navbar {
+    background: #7ed957;
+}
+
+h1, p, ::placeholder {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.monsta {
+    background-color: #CB6CE6;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    color: #ff66c4;
+    text-decoration: none !important;
+  }
+
+  a:hover {
+      color: #ad538a;
+
+  }
+
+.stockist {
+    background-color: #8c52ff;
+    }
+  .contact {
+    background-color: #ffbd59
+    }
+
+    .btn-colour-1 {
+        font-family: 'Poppins', sans-serif;
+        color: #ffffff;
+        background-color: #38b6ff;
+        border-color: #38b6ff;
+      }
+      
+      .btn-colour-1:hover,
+      .btn-colour-1:active,
+      .btn-colour-1:focus,
+      .btn-colour-1.active {
+        background: #5271ff;
+        color: #ffffff;
+        border-color: #5271ff;
+      }
+  
+    .foot {
+        background-color: #5e17eb
+        }
