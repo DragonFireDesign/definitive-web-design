@@ -1,0 +1,64 @@
+body {
+    background-color: #F5F5F5;
+    color: #282828;
+}
+
+.hire {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+a {
+    color: #344033;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #6C757D;
+}
+
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    color: #282828;
+}
+
+h2 {
+    font-family: 'Helvetica', sans-serif;
+    color: #282828;
+}
+
+h3 {
+    font-family: 'Helvetica', sans-serif;
+    color: #282828;
+}
+
+h5 {
+    font-family: 'Helvetica', sans-serif;
+    color: #f0eee9;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.heading-line {
+    border-top: 1px solid #282828;
+
+    /* Change color as needed */
+    width: 100%;
+
+    /* Additional styling for the line as needed */
+}
+
+.demo {
+    background-color: #344033;
+}
+
+.card {
+    margin: 1em;
+}
+
+
